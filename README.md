@@ -1,10 +1,10 @@
-Tool to find the top 5 users in apache logs. 
+**Tool to find the top 5 users in apache logs.** 
 
-Pre-Reqs:
+**Pre-Reqs:**
 Please make sure you have python in your path and you are atleast at version 3.6+
 Please also make sure you have a trailing slash "/" at the end of your directory.
 
-Below is an example
+**Below is an example**
 $ ./parser.sh /Users/Downloads/excercise/logs/
 Total unique users:       36
 id         # pages # sess  longest shortest
