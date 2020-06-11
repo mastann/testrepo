@@ -1,4 +1,4 @@
-Find the top 5 users in apache logs. 
+Tool to find the top 5 users in apache logs. 
 
 Pre-Reqs:
 Please make sure you have python in your path and you are atleast at version 3.6+
